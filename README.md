@@ -12,6 +12,10 @@
 [twitter-follow]: https://img.shields.io/twitter/follow/chemerisuk.svg?style=social&label=Follow%20me
 [donate-url]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6HLVTJDGQQ6EY&source=url
 
+## Sayene Fork:
+
+* changes in this fork: [see CHANGELOG](./CHANGELOG.md)
+
 ## Index
 
 <!-- MarkdownTOC levels="2,3" autolink="true" -->
